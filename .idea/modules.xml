@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProyectoTecnicasAvanzadas.iml" filepath="$PROJECT_DIR$/.idea/ProyectoTecnicasAvanzadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDPA/TDPA.iml" filepath="$PROJECT_DIR$/TDPA/TDPA.iml" />
+    </modules>
+  </component>
+</project>
