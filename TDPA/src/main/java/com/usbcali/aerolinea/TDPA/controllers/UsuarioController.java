@@ -1,6 +1,6 @@
 package com.usbcali.aerolinea.TDPA.controllers;
 
-import com.usbcali.aerolinea.TDPA.models.UsuarioModel;
+import com.usbcali.aerolinea.TDPA.model.UsuarioModel;
 import com.usbcali.aerolinea.TDPA.services.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

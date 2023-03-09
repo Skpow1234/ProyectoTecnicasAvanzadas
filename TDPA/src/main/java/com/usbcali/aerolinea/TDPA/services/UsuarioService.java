@@ -1,7 +1,7 @@
 package com.usbcali.aerolinea.TDPA.services;
 
-import com.usbcali.aerolinea.TDPA.models.UsuarioModel;
-import com.usbcali.aerolinea.TDPA.repositories.UsuarioRepository;
+import com.usbcali.aerolinea.TDPA.model.UsuarioModel;
+import com.usbcali.aerolinea.TDPA.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.usbcali.aerolinea.TDPA.models;
+package com.usbcali.aerolinea.TDPA.model;
 
 import jakarta.persistence.*;
 

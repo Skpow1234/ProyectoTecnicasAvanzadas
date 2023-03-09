@@ -1,6 +1,6 @@
-package com.usbcali.aerolinea.TDPA.repositories;
+package com.usbcali.aerolinea.TDPA.repository;
 
-import com.usbcali.aerolinea.TDPA.models.UsuarioModel;
+import com.usbcali.aerolinea.TDPA.model.UsuarioModel;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
